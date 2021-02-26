@@ -11,7 +11,7 @@ class AC(Device):
     GPIO_PIN = 7
 
     def __init__(self, name):
-        super().__init__(name, AC.GPIO_PIN)
+        super().__init__(name, pin=AC.GPIO_PIN)
 
     @staticmethod
     def logTemperature():

@@ -1,0 +1,1536 @@
+/usr/lib/python3/dist-packages/Jetson/GPIO/gpio.py:366: RuntimeWarning: This channel is already in use, continuing anyway. Use GPIO.setwarnings(False) to disable warnings
+  RuntimeWarning)
+INFO: 02/25/2021 11:14:17 AM Starting A/C controller in PID 12560
+INFO: 02/25/2021 11:14:17 AM AO-therm  ----> 44.0 C
+INFO: 02/25/2021 11:14:17 AM CPU-therm  ----> 36.5 C
+INFO: 02/25/2021 11:14:17 AM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 11:14:17 AM PLL-therm  ----> 31.5 C
+INFO: 02/25/2021 11:14:17 AM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 11:14:17 AM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 11:14:17 AM Turning on TCL A/C for 4.0 minutes
+INFO: 02/25/2021 11:18:17 AM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 11:18:17 AM CPU-therm  ----> 35.5 C
+INFO: 02/25/2021 11:18:17 AM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 11:18:17 AM PLL-therm  ----> 31.0 C
+INFO: 02/25/2021 11:18:17 AM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 11:18:17 AM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 11:18:17 AM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 11:20:17 AM AO-therm  ----> 43.5 C
+INFO: 02/25/2021 11:20:17 AM CPU-therm  ----> 35.5 C
+INFO: 02/25/2021 11:20:17 AM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 11:20:17 AM PLL-therm  ----> 31.5 C
+INFO: 02/25/2021 11:20:17 AM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 11:20:17 AM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 11:20:17 AM Turning on TCL A/C for 4.0 minutes
+INFO: 02/25/2021 11:24:17 AM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 11:24:17 AM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 11:24:17 AM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 11:24:17 AM PLL-therm  ----> 31.0 C
+INFO: 02/25/2021 11:24:17 AM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 11:24:17 AM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 11:24:17 AM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 11:26:17 AM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 11:26:17 AM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 11:26:17 AM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 11:26:17 AM PLL-therm  ----> 31.0 C
+INFO: 02/25/2021 11:26:17 AM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 11:26:17 AM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 11:26:17 AM Turning on TCL A/C for 4.0 minutes
+INFO: 02/25/2021 11:30:17 AM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 11:30:17 AM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 11:30:17 AM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 11:30:17 AM PLL-therm  ----> 31.0 C
+INFO: 02/25/2021 11:30:17 AM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 11:30:17 AM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 11:30:17 AM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 11:32:17 AM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 11:32:17 AM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 11:32:17 AM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 11:32:17 AM PLL-therm  ----> 31.0 C
+INFO: 02/25/2021 11:32:17 AM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 11:32:17 AM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 11:32:17 AM Turning on TCL A/C for 4.0 minutes
+INFO: 02/25/2021 11:36:17 AM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 11:36:17 AM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 11:36:17 AM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 11:36:17 AM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 11:36:17 AM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 11:36:17 AM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 11:36:17 AM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 11:38:17 AM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 11:38:17 AM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 11:38:17 AM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 11:38:17 AM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 11:38:17 AM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 11:38:17 AM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 11:38:17 AM Turning on TCL A/C for 4.0 minutes
+INFO: 02/25/2021 11:42:18 AM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 11:42:18 AM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 11:42:18 AM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 11:42:18 AM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 11:42:18 AM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 11:42:18 AM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 11:42:18 AM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 11:44:18 AM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 11:44:18 AM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 11:44:18 AM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 11:44:18 AM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 11:44:18 AM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 11:44:18 AM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 11:44:18 AM Turning on TCL A/C for 4.0 minutes
+INFO: 02/25/2021 11:48:18 AM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 11:48:18 AM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 11:48:18 AM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 11:48:18 AM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 11:48:18 AM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 11:48:18 AM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 11:48:18 AM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 11:50:18 AM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 11:50:18 AM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 11:50:18 AM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 11:50:18 AM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 11:50:18 AM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 11:50:18 AM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 11:50:18 AM Turning on TCL A/C for 4.0 minutes
+INFO: 02/25/2021 11:54:18 AM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 11:54:18 AM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 11:54:18 AM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 11:54:18 AM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 11:54:18 AM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 11:54:18 AM thermal-fan-est  ----> 33.75 C
+DEBUG: 02/25/2021 11:54:18 AM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 11:56:18 AM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 11:56:18 AM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 11:56:18 AM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 11:56:18 AM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 11:56:18 AM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 11:56:18 AM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 11:56:18 AM Turning on TCL A/C for 4.0 minutes
+INFO: 02/25/2021 12:00:18 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 12:00:18 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 12:00:18 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 12:00:18 PM PLL-therm  ----> 29.5 C
+INFO: 02/25/2021 12:00:18 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 12:00:18 PM thermal-fan-est  ----> 33.5 C
+DEBUG: 02/25/2021 12:00:18 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 12:02:18 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 12:02:18 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 12:02:18 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 12:02:18 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 12:02:18 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 12:02:18 PM thermal-fan-est  ----> 33.75 C
+DEBUG: 02/25/2021 12:02:18 PM Turning on TCL A/C for 4.0 minutes
+INFO: 02/25/2021 12:06:18 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 12:06:18 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 12:06:18 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 12:06:18 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 12:06:18 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 12:06:18 PM thermal-fan-est  ----> 33.75 C
+DEBUG: 02/25/2021 12:06:18 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 12:08:18 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 12:08:18 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 12:08:18 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 12:08:18 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 12:08:18 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 12:08:18 PM thermal-fan-est  ----> 33.75 C
+DEBUG: 02/25/2021 12:08:18 PM Turning on TCL A/C for 4.0 minutes
+INFO: 02/25/2021 12:12:19 PM AO-therm  ----> 41.5 C
+INFO: 02/25/2021 12:12:19 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 12:12:19 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 12:12:19 PM PLL-therm  ----> 29.5 C
+INFO: 02/25/2021 12:12:19 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 12:12:19 PM thermal-fan-est  ----> 33.75 C
+DEBUG: 02/25/2021 12:12:19 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 12:14:19 PM AO-therm  ----> 41.5 C
+INFO: 02/25/2021 12:14:19 PM CPU-therm  ----> 33.5 C
+INFO: 02/25/2021 12:14:19 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 12:14:19 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 12:14:19 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 12:14:19 PM thermal-fan-est  ----> 33.75 C
+DEBUG: 02/25/2021 12:14:19 PM Turning on TCL A/C for 4.0 minutes
+INFO: 02/25/2021 12:18:19 PM AO-therm  ----> 41.5 C
+INFO: 02/25/2021 12:18:19 PM CPU-therm  ----> 33.5 C
+INFO: 02/25/2021 12:18:19 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 12:18:19 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 12:18:19 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 12:18:19 PM thermal-fan-est  ----> 33.75 C
+DEBUG: 02/25/2021 12:18:19 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 12:18:19 PM Shuting down the TCL A/C on pin number 7
+DEBUG: 02/25/2021 12:18:19 PM Turning off TCL A/C for 0 minutes
+Traceback (most recent call last):
+  File "./ac_controller.py", line 53, in main
+    ac.turnOff(offTime)
+  File "/home/kasun/test/gpio/devices/device.py", line 29, in turnOff
+    GPIO.output(self.pin, GPIO.LOW)
+  File "/usr/lib/python3/dist-packages/Jetson/GPIO/gpio.py", line 435, in output
+    _output_one(ch_info.gpio, value)
+  File "/usr/lib/python3/dist-packages/Jetson/GPIO/gpio.py", line 175, in _output_one
+    with open(_SYSFS_ROOT + "/gpio%s" % gpio + "/value", 'w') as value_file:
+FileNotFoundError: [Errno 2] No such file or directory: '/sys/class/gpio/gpio216/value'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "./ac_controller.py", line 62, in <module>
+    main(sys.argv[1:])
+  File "./ac_controller.py", line 57, in main
+    ac.shutdown()
+  File "/home/kasun/test/gpio/devices/device.py", line 44, in shutdown
+    self.turnOff()
+  File "/home/kasun/test/gpio/devices/device.py", line 29, in turnOff
+    GPIO.output(self.pin, GPIO.LOW)
+  File "/usr/lib/python3/dist-packages/Jetson/GPIO/gpio.py", line 435, in output
+    _output_one(ch_info.gpio, value)
+  File "/usr/lib/python3/dist-packages/Jetson/GPIO/gpio.py", line 175, in _output_one
+    with open(_SYSFS_ROOT + "/gpio%s" % gpio + "/value", 'w') as value_file:
+FileNotFoundError: [Errno 2] No such file or directory: '/sys/class/gpio/gpio216/value'
+INFO: 02/25/2021 12:18:23 PM Starting A/C controller in PID 14135
+INFO: 02/25/2021 12:18:23 PM AO-therm  ----> 41.5 C
+INFO: 02/25/2021 12:18:23 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 12:18:23 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 12:18:23 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 12:18:23 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 12:18:23 PM thermal-fan-est  ----> 33.5 C
+DEBUG: 02/25/2021 12:18:23 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 12:20:23 PM AO-therm  ----> 41.5 C
+INFO: 02/25/2021 12:20:23 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 12:20:23 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 12:20:23 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 12:20:23 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 12:20:23 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 12:20:23 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 12:22:23 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 12:22:23 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 12:22:23 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 12:22:23 PM PLL-therm  ----> 29.5 C
+INFO: 02/25/2021 12:22:23 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 12:22:23 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 12:22:23 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 12:24:24 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 12:24:24 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 12:24:24 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 12:24:24 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 12:24:24 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 12:24:24 PM thermal-fan-est  ----> 33.75 C
+DEBUG: 02/25/2021 12:24:24 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 12:26:24 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 12:26:24 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 12:26:24 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 12:26:24 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 12:26:24 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 12:26:24 PM thermal-fan-est  ----> 33.5 C
+DEBUG: 02/25/2021 12:26:24 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 12:28:24 PM AO-therm  ----> 41.5 C
+INFO: 02/25/2021 12:28:24 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 12:28:24 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 12:28:24 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 12:28:24 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 12:28:24 PM thermal-fan-est  ----> 33.75 C
+DEBUG: 02/25/2021 12:28:24 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 12:30:24 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 12:30:24 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 12:30:24 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 12:30:24 PM PLL-therm  ----> 29.5 C
+INFO: 02/25/2021 12:30:24 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 12:30:24 PM thermal-fan-est  ----> 33.75 C
+DEBUG: 02/25/2021 12:30:24 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 12:32:24 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 12:32:24 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 12:32:24 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 12:32:24 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 12:32:24 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 12:32:24 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 12:32:24 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 12:34:24 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 12:34:24 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 12:34:24 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 12:34:24 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 12:34:24 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 12:34:24 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 12:34:24 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 12:36:24 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 12:36:24 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 12:36:24 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 12:36:24 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 12:36:24 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 12:36:24 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 12:36:24 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 12:38:24 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 12:38:24 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 12:38:24 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 12:38:24 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 12:38:24 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 12:38:24 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 12:38:24 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 12:40:24 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 12:40:24 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 12:40:24 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 12:40:24 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 12:40:24 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 12:40:24 PM thermal-fan-est  ----> 33.75 C
+DEBUG: 02/25/2021 12:40:24 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 12:42:25 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 12:42:25 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 12:42:25 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 12:42:25 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 12:42:25 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 12:42:25 PM thermal-fan-est  ----> 33.75 C
+DEBUG: 02/25/2021 12:42:25 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 12:42:25 PM Shuting down the TCL A/C on pin number 7
+DEBUG: 02/25/2021 12:42:25 PM Turning off TCL A/C for 0 minutes
+Traceback (most recent call last):
+  File "./ac_controller.py", line 51, in main
+    ac.turnOn(onTime)
+  File "/home/kasun/test/gpio/devices/device.py", line 23, in turnOn
+    GPIO.output(self.pin, GPIO.HIGH)
+  File "/usr/lib/python3/dist-packages/Jetson/GPIO/gpio.py", line 435, in output
+    _output_one(ch_info.gpio, value)
+  File "/usr/lib/python3/dist-packages/Jetson/GPIO/gpio.py", line 175, in _output_one
+    with open(_SYSFS_ROOT + "/gpio%s" % gpio + "/value", 'w') as value_file:
+FileNotFoundError: [Errno 2] No such file or directory: '/sys/class/gpio/gpio216/value'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "./ac_controller.py", line 62, in <module>
+    main(sys.argv[1:])
+  File "./ac_controller.py", line 57, in main
+    ac.shutdown()
+  File "/home/kasun/test/gpio/devices/device.py", line 44, in shutdown
+    self.turnOff()
+  File "/home/kasun/test/gpio/devices/device.py", line 29, in turnOff
+    GPIO.output(self.pin, GPIO.LOW)
+  File "/usr/lib/python3/dist-packages/Jetson/GPIO/gpio.py", line 435, in output
+    _output_one(ch_info.gpio, value)
+  File "/usr/lib/python3/dist-packages/Jetson/GPIO/gpio.py", line 175, in _output_one
+    with open(_SYSFS_ROOT + "/gpio%s" % gpio + "/value", 'w') as value_file:
+FileNotFoundError: [Errno 2] No such file or directory: '/sys/class/gpio/gpio216/value'
+INFO: 02/25/2021 02:40:09 PM Starting A/C controller in PID 17106
+INFO: 02/25/2021 02:40:09 PM AO-therm  ----> 44.0 C
+INFO: 02/25/2021 02:40:09 PM CPU-therm  ----> 36.5 C
+INFO: 02/25/2021 02:40:09 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 02:40:09 PM PLL-therm  ----> 32.0 C
+INFO: 02/25/2021 02:40:09 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 02:40:09 PM thermal-fan-est  ----> 35.25 C
+DEBUG: 02/25/2021 02:40:09 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 02:42:09 PM AO-therm  ----> 44.0 C
+INFO: 02/25/2021 02:42:09 PM CPU-therm  ----> 36.0 C
+INFO: 02/25/2021 02:42:09 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 02:42:09 PM PLL-therm  ----> 31.5 C
+INFO: 02/25/2021 02:42:09 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 02:42:09 PM thermal-fan-est  ----> 34.75 C
+DEBUG: 02/25/2021 02:42:09 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 02:44:09 PM AO-therm  ----> 44.0 C
+INFO: 02/25/2021 02:44:09 PM CPU-therm  ----> 36.0 C
+INFO: 02/25/2021 02:44:09 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 02:44:09 PM PLL-therm  ----> 31.5 C
+INFO: 02/25/2021 02:44:09 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 02:44:09 PM thermal-fan-est  ----> 34.75 C
+DEBUG: 02/25/2021 02:44:09 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 02:46:09 PM AO-therm  ----> 44.5 C
+INFO: 02/25/2021 02:46:09 PM CPU-therm  ----> 36.5 C
+INFO: 02/25/2021 02:46:09 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 02:46:09 PM PLL-therm  ----> 31.5 C
+INFO: 02/25/2021 02:46:09 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 02:46:09 PM thermal-fan-est  ----> 35.0 C
+DEBUG: 02/25/2021 02:46:09 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 02:48:09 PM AO-therm  ----> 44.0 C
+INFO: 02/25/2021 02:48:09 PM CPU-therm  ----> 36.0 C
+INFO: 02/25/2021 02:48:09 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 02:48:09 PM PLL-therm  ----> 32.0 C
+INFO: 02/25/2021 02:48:09 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 02:48:09 PM thermal-fan-est  ----> 35.0 C
+DEBUG: 02/25/2021 02:48:09 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 02:50:10 PM AO-therm  ----> 44.0 C
+INFO: 02/25/2021 02:50:10 PM CPU-therm  ----> 36.0 C
+INFO: 02/25/2021 02:50:10 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 02:50:10 PM PLL-therm  ----> 31.5 C
+INFO: 02/25/2021 02:50:10 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 02:50:10 PM thermal-fan-est  ----> 35.0 C
+DEBUG: 02/25/2021 02:50:10 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 02:52:10 PM AO-therm  ----> 44.0 C
+INFO: 02/25/2021 02:52:10 PM CPU-therm  ----> 36.0 C
+INFO: 02/25/2021 02:52:10 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 02:52:10 PM PLL-therm  ----> 32.0 C
+INFO: 02/25/2021 02:52:10 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 02:52:10 PM thermal-fan-est  ----> 35.0 C
+DEBUG: 02/25/2021 02:52:10 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 02:54:10 PM AO-therm  ----> 44.0 C
+INFO: 02/25/2021 02:54:10 PM CPU-therm  ----> 36.0 C
+INFO: 02/25/2021 02:54:10 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 02:54:10 PM PLL-therm  ----> 31.5 C
+INFO: 02/25/2021 02:54:10 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 02:54:10 PM thermal-fan-est  ----> 35.0 C
+DEBUG: 02/25/2021 02:54:10 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 02:56:10 PM AO-therm  ----> 44.0 C
+INFO: 02/25/2021 02:56:10 PM CPU-therm  ----> 36.0 C
+INFO: 02/25/2021 02:56:10 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 02:56:10 PM PLL-therm  ----> 32.0 C
+INFO: 02/25/2021 02:56:10 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 02:56:10 PM thermal-fan-est  ----> 35.0 C
+DEBUG: 02/25/2021 02:56:10 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 02:58:10 PM AO-therm  ----> 44.0 C
+INFO: 02/25/2021 02:58:10 PM CPU-therm  ----> 35.5 C
+INFO: 02/25/2021 02:58:10 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 02:58:10 PM PLL-therm  ----> 31.5 C
+INFO: 02/25/2021 02:58:10 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 02:58:10 PM thermal-fan-est  ----> 34.75 C
+DEBUG: 02/25/2021 02:58:10 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:00:10 PM AO-therm  ----> 44.0 C
+INFO: 02/25/2021 03:00:10 PM CPU-therm  ----> 35.5 C
+INFO: 02/25/2021 03:00:10 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:00:10 PM PLL-therm  ----> 31.5 C
+INFO: 02/25/2021 03:00:10 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:00:10 PM thermal-fan-est  ----> 34.75 C
+DEBUG: 02/25/2021 03:00:10 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:02:10 PM AO-therm  ----> 44.0 C
+INFO: 02/25/2021 03:02:10 PM CPU-therm  ----> 36.0 C
+INFO: 02/25/2021 03:02:10 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:02:10 PM PLL-therm  ----> 31.5 C
+INFO: 02/25/2021 03:02:10 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:02:10 PM thermal-fan-est  ----> 34.75 C
+DEBUG: 02/25/2021 03:02:10 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:04:10 PM AO-therm  ----> 44.0 C
+INFO: 02/25/2021 03:04:10 PM CPU-therm  ----> 36.5 C
+INFO: 02/25/2021 03:04:10 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:04:10 PM PLL-therm  ----> 31.5 C
+INFO: 02/25/2021 03:04:10 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:04:10 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 03:04:10 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:06:10 PM AO-therm  ----> 43.5 C
+INFO: 02/25/2021 03:06:10 PM CPU-therm  ----> 35.5 C
+INFO: 02/25/2021 03:06:10 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:06:10 PM PLL-therm  ----> 31.5 C
+INFO: 02/25/2021 03:06:10 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:06:10 PM thermal-fan-est  ----> 34.75 C
+DEBUG: 02/25/2021 03:06:10 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:08:10 PM AO-therm  ----> 44.0 C
+INFO: 02/25/2021 03:08:10 PM CPU-therm  ----> 36.0 C
+INFO: 02/25/2021 03:08:10 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:08:10 PM PLL-therm  ----> 31.5 C
+INFO: 02/25/2021 03:08:10 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:08:10 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 03:08:10 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:10:11 PM AO-therm  ----> 43.5 C
+INFO: 02/25/2021 03:10:11 PM CPU-therm  ----> 36.0 C
+INFO: 02/25/2021 03:10:11 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:10:11 PM PLL-therm  ----> 31.5 C
+INFO: 02/25/2021 03:10:11 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:10:11 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 03:10:11 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:12:11 PM AO-therm  ----> 43.5 C
+INFO: 02/25/2021 03:12:11 PM CPU-therm  ----> 35.5 C
+INFO: 02/25/2021 03:12:11 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:12:11 PM PLL-therm  ----> 31.5 C
+INFO: 02/25/2021 03:12:11 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:12:11 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 03:12:11 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:14:11 PM AO-therm  ----> 44.0 C
+INFO: 02/25/2021 03:14:11 PM CPU-therm  ----> 36.0 C
+INFO: 02/25/2021 03:14:11 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:14:11 PM PLL-therm  ----> 31.5 C
+INFO: 02/25/2021 03:14:11 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:14:11 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 03:14:11 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:16:11 PM AO-therm  ----> 43.5 C
+INFO: 02/25/2021 03:16:11 PM CPU-therm  ----> 35.5 C
+INFO: 02/25/2021 03:16:11 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:16:11 PM PLL-therm  ----> 31.5 C
+INFO: 02/25/2021 03:16:11 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:16:11 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 03:16:11 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:18:11 PM AO-therm  ----> 43.5 C
+INFO: 02/25/2021 03:18:11 PM CPU-therm  ----> 36.0 C
+INFO: 02/25/2021 03:18:11 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:18:11 PM PLL-therm  ----> 31.5 C
+INFO: 02/25/2021 03:18:11 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:18:11 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 03:18:11 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:20:11 PM AO-therm  ----> 44.0 C
+INFO: 02/25/2021 03:20:11 PM CPU-therm  ----> 35.5 C
+INFO: 02/25/2021 03:20:11 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:20:11 PM PLL-therm  ----> 31.5 C
+INFO: 02/25/2021 03:20:11 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:20:11 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 03:20:11 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:22:11 PM AO-therm  ----> 43.5 C
+INFO: 02/25/2021 03:22:11 PM CPU-therm  ----> 35.5 C
+INFO: 02/25/2021 03:22:11 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:22:11 PM PLL-therm  ----> 31.0 C
+INFO: 02/25/2021 03:22:11 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:22:11 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 03:22:11 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:24:11 PM AO-therm  ----> 43.5 C
+INFO: 02/25/2021 03:24:11 PM CPU-therm  ----> 35.5 C
+INFO: 02/25/2021 03:24:11 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:24:11 PM PLL-therm  ----> 31.0 C
+INFO: 02/25/2021 03:24:11 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:24:11 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 03:24:11 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:26:11 PM AO-therm  ----> 43.5 C
+INFO: 02/25/2021 03:26:11 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 03:26:11 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:26:11 PM PLL-therm  ----> 31.0 C
+INFO: 02/25/2021 03:26:11 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:26:11 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 03:26:11 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:28:11 PM AO-therm  ----> 43.5 C
+INFO: 02/25/2021 03:28:11 PM CPU-therm  ----> 35.5 C
+INFO: 02/25/2021 03:28:11 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:28:11 PM PLL-therm  ----> 31.5 C
+INFO: 02/25/2021 03:28:11 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:28:11 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 03:28:11 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:30:11 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 03:30:11 PM CPU-therm  ----> 35.5 C
+INFO: 02/25/2021 03:30:11 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:30:11 PM PLL-therm  ----> 31.0 C
+INFO: 02/25/2021 03:30:11 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:30:11 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 03:30:11 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:32:12 PM AO-therm  ----> 43.5 C
+INFO: 02/25/2021 03:32:12 PM CPU-therm  ----> 35.5 C
+INFO: 02/25/2021 03:32:12 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:32:12 PM PLL-therm  ----> 31.0 C
+INFO: 02/25/2021 03:32:12 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:32:12 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 03:32:12 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:34:12 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 03:34:12 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 03:34:12 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:34:12 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 03:34:12 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:34:12 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 03:34:12 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:36:12 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 03:36:12 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 03:36:12 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:36:12 PM PLL-therm  ----> 31.0 C
+INFO: 02/25/2021 03:36:12 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:36:12 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 03:36:12 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:38:12 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 03:38:12 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 03:38:12 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:38:12 PM PLL-therm  ----> 31.0 C
+INFO: 02/25/2021 03:38:12 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:38:12 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 03:38:12 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:40:12 PM AO-therm  ----> 43.5 C
+INFO: 02/25/2021 03:40:12 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 03:40:12 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:40:12 PM PLL-therm  ----> 31.0 C
+INFO: 02/25/2021 03:40:12 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:40:12 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 03:40:12 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:42:12 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 03:42:12 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 03:42:12 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:42:12 PM PLL-therm  ----> 31.0 C
+INFO: 02/25/2021 03:42:12 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:42:12 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 03:42:12 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:44:12 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 03:44:12 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 03:44:12 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:44:12 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 03:44:12 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:44:12 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 03:44:12 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:46:12 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 03:46:12 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 03:46:12 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:46:12 PM PLL-therm  ----> 31.0 C
+INFO: 02/25/2021 03:46:12 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:46:12 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 03:46:12 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:48:12 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 03:48:12 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 03:48:12 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:48:12 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 03:48:12 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:48:12 PM thermal-fan-est  ----> 34.75 C
+DEBUG: 02/25/2021 03:48:12 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:50:12 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 03:50:12 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 03:50:12 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:50:12 PM PLL-therm  ----> 31.0 C
+INFO: 02/25/2021 03:50:12 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:50:12 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 03:50:12 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:52:12 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 03:52:12 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 03:52:12 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:52:12 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 03:52:12 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:52:12 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 03:52:12 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:54:12 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 03:54:12 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 03:54:12 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:54:12 PM PLL-therm  ----> 31.0 C
+INFO: 02/25/2021 03:54:12 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:54:12 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 03:54:12 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:56:13 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 03:56:13 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 03:56:13 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:56:13 PM PLL-therm  ----> 31.0 C
+INFO: 02/25/2021 03:56:13 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:56:13 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 03:56:13 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 03:58:13 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 03:58:13 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 03:58:13 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 03:58:13 PM PLL-therm  ----> 31.0 C
+INFO: 02/25/2021 03:58:13 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 03:58:13 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 03:58:13 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:00:13 PM AO-therm  ----> 43.5 C
+INFO: 02/25/2021 04:00:13 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 04:00:13 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:00:13 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 04:00:13 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:00:13 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 04:00:13 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:02:13 PM AO-therm  ----> 43.5 C
+INFO: 02/25/2021 04:02:13 PM CPU-therm  ----> 35.5 C
+INFO: 02/25/2021 04:02:13 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:02:13 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 04:02:13 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:02:13 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 04:02:13 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:04:13 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 04:04:13 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 04:04:13 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:04:13 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 04:04:13 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:04:13 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 04:04:13 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:06:13 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 04:06:13 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 04:06:13 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:06:13 PM PLL-therm  ----> 31.0 C
+INFO: 02/25/2021 04:06:13 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:06:13 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 04:06:13 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:08:13 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 04:08:13 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 04:08:13 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:08:13 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 04:08:13 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:08:13 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 04:08:13 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:10:13 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 04:10:13 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 04:10:13 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:10:13 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 04:10:13 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:10:13 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 04:10:13 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:12:13 PM AO-therm  ----> 43.5 C
+INFO: 02/25/2021 04:12:13 PM CPU-therm  ----> 36.0 C
+INFO: 02/25/2021 04:12:13 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:12:13 PM PLL-therm  ----> 31.0 C
+INFO: 02/25/2021 04:12:13 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:12:13 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 04:12:13 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:14:13 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 04:14:13 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 04:14:13 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:14:13 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 04:14:13 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:14:13 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 04:14:13 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:16:13 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 04:16:13 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 04:16:13 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:16:13 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 04:16:13 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:16:13 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 04:16:13 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:18:14 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 04:18:14 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 04:18:14 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:18:14 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 04:18:14 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:18:14 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 04:18:14 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:20:14 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 04:20:14 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 04:20:14 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:20:14 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 04:20:14 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:20:14 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 04:20:14 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:22:14 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 04:22:14 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 04:22:14 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:22:14 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 04:22:14 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:22:14 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 04:22:14 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:24:14 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 04:24:14 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 04:24:14 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:24:14 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 04:24:14 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:24:14 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 04:24:14 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:26:14 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 04:26:14 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 04:26:14 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:26:14 PM PLL-therm  ----> 31.0 C
+INFO: 02/25/2021 04:26:14 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:26:14 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 04:26:14 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:28:14 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 04:28:14 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 04:28:14 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:28:14 PM PLL-therm  ----> 31.0 C
+INFO: 02/25/2021 04:28:14 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:28:14 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 04:28:14 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:30:14 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 04:30:14 PM CPU-therm  ----> 35.5 C
+INFO: 02/25/2021 04:30:14 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:30:14 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 04:30:14 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:30:14 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 04:30:14 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:32:14 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 04:32:14 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 04:32:14 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:32:14 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 04:32:14 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:32:14 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 04:32:14 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:34:14 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 04:34:14 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 04:34:14 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:34:14 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 04:34:14 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:34:14 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 04:34:14 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:36:14 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 04:36:14 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 04:36:14 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:36:14 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 04:36:14 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:36:14 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 04:36:14 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:38:14 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 04:38:14 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 04:38:14 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:38:14 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 04:38:14 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:38:14 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 04:38:14 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:40:14 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 04:40:14 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 04:40:14 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:40:14 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 04:40:14 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:40:14 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 04:40:14 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:42:15 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 04:42:15 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 04:42:15 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:42:15 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 04:42:15 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:42:15 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 04:42:15 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:44:15 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 04:44:15 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 04:44:15 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:44:15 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 04:44:15 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:44:15 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 04:44:15 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:46:15 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 04:46:15 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 04:46:15 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:46:15 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 04:46:15 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:46:15 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 04:46:15 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:48:15 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 04:48:15 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 04:48:15 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:48:15 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 04:48:15 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:48:15 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 04:48:15 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:50:15 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 04:50:15 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 04:50:15 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:50:15 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 04:50:15 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:50:15 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 04:50:15 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:52:15 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 04:52:15 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 04:52:15 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:52:15 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 04:52:15 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:52:15 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 04:52:15 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:54:15 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 04:54:15 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 04:54:15 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:54:15 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 04:54:15 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:54:15 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 04:54:15 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:56:15 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 04:56:15 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 04:56:15 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:56:15 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 04:56:15 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:56:15 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 04:56:15 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 04:58:15 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 04:58:15 PM CPU-therm  ----> 35.5 C
+INFO: 02/25/2021 04:58:15 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 04:58:15 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 04:58:15 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 04:58:15 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 04:58:15 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:00:15 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 05:00:15 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 05:00:15 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:00:15 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 05:00:15 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:00:15 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 05:00:15 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:02:15 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 05:02:15 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 05:02:15 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:02:15 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 05:02:15 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:02:15 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 05:02:15 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:04:15 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 05:04:15 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 05:04:15 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:04:15 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 05:04:15 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:04:15 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 05:04:15 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:06:16 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 05:06:16 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 05:06:16 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:06:16 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 05:06:16 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:06:16 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 05:06:16 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:08:16 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 05:08:16 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 05:08:16 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:08:16 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 05:08:16 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:08:16 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 05:08:16 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:10:16 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 05:10:16 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 05:10:16 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:10:16 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 05:10:16 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:10:16 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 05:10:16 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:12:16 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 05:12:16 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 05:12:16 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:12:16 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 05:12:16 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:12:16 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 05:12:16 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:14:16 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 05:14:16 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 05:14:16 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:14:16 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 05:14:16 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:14:16 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 05:14:16 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:16:16 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 05:16:16 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 05:16:16 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:16:16 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 05:16:16 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:16:16 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 05:16:16 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:18:16 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 05:18:16 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 05:18:16 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:18:16 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 05:18:16 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:18:16 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 05:18:16 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:20:16 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 05:20:16 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 05:20:16 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:20:16 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 05:20:16 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:20:16 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 05:20:16 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:22:16 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 05:22:16 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 05:22:16 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:22:16 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 05:22:16 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:22:16 PM thermal-fan-est  ----> 33.75 C
+DEBUG: 02/25/2021 05:22:16 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:24:16 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 05:24:16 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 05:24:16 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:24:16 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 05:24:16 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:24:16 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 05:24:16 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:26:17 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 05:26:17 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 05:26:17 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:26:17 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 05:26:17 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:26:17 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 05:26:17 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:28:17 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 05:28:17 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 05:28:17 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:28:17 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 05:28:17 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:28:17 PM thermal-fan-est  ----> 33.75 C
+DEBUG: 02/25/2021 05:28:17 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:30:17 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 05:30:17 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 05:30:17 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:30:17 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 05:30:17 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:30:17 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 05:30:17 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:32:17 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 05:32:17 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 05:32:17 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:32:17 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 05:32:17 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:32:17 PM thermal-fan-est  ----> 33.75 C
+DEBUG: 02/25/2021 05:32:17 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:34:17 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 05:34:17 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 05:34:17 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:34:17 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 05:34:17 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:34:17 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 05:34:17 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:36:17 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 05:36:17 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 05:36:17 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:36:17 PM PLL-therm  ----> 29.5 C
+INFO: 02/25/2021 05:36:17 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:36:17 PM thermal-fan-est  ----> 33.75 C
+DEBUG: 02/25/2021 05:36:17 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:38:17 PM AO-therm  ----> 41.5 C
+INFO: 02/25/2021 05:38:17 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 05:38:17 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:38:17 PM PLL-therm  ----> 29.5 C
+INFO: 02/25/2021 05:38:17 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:38:17 PM thermal-fan-est  ----> 33.75 C
+DEBUG: 02/25/2021 05:38:17 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:40:17 PM AO-therm  ----> 41.5 C
+INFO: 02/25/2021 05:40:17 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 05:40:17 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:40:17 PM PLL-therm  ----> 29.5 C
+INFO: 02/25/2021 05:40:17 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:40:17 PM thermal-fan-est  ----> 33.75 C
+DEBUG: 02/25/2021 05:40:17 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:42:17 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 05:42:17 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 05:42:17 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:42:17 PM PLL-therm  ----> 29.5 C
+INFO: 02/25/2021 05:42:17 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:42:17 PM thermal-fan-est  ----> 33.75 C
+DEBUG: 02/25/2021 05:42:17 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:44:17 PM AO-therm  ----> 41.5 C
+INFO: 02/25/2021 05:44:17 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 05:44:17 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:44:17 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 05:44:17 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:44:17 PM thermal-fan-est  ----> 33.75 C
+DEBUG: 02/25/2021 05:44:17 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:46:17 PM AO-therm  ----> 41.5 C
+INFO: 02/25/2021 05:46:17 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 05:46:17 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:46:17 PM PLL-therm  ----> 29.5 C
+INFO: 02/25/2021 05:46:17 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:46:17 PM thermal-fan-est  ----> 33.5 C
+DEBUG: 02/25/2021 05:46:17 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:48:18 PM AO-therm  ----> 41.5 C
+INFO: 02/25/2021 05:48:18 PM CPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:48:18 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:48:18 PM PLL-therm  ----> 29.5 C
+INFO: 02/25/2021 05:48:18 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:48:18 PM thermal-fan-est  ----> 33.75 C
+DEBUG: 02/25/2021 05:48:18 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:50:18 PM AO-therm  ----> 41.5 C
+INFO: 02/25/2021 05:50:18 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 05:50:18 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:50:18 PM PLL-therm  ----> 29.5 C
+INFO: 02/25/2021 05:50:18 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:50:18 PM thermal-fan-est  ----> 33.5 C
+DEBUG: 02/25/2021 05:50:18 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:52:18 PM AO-therm  ----> 41.5 C
+INFO: 02/25/2021 05:52:18 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 05:52:18 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 05:52:18 PM PLL-therm  ----> 29.5 C
+INFO: 02/25/2021 05:52:18 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:52:18 PM thermal-fan-est  ----> 33.5 C
+DEBUG: 02/25/2021 05:52:18 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:54:18 PM AO-therm  ----> 41.5 C
+INFO: 02/25/2021 05:54:18 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 05:54:18 PM GPU-therm  ----> 31.5 C
+INFO: 02/25/2021 05:54:18 PM PLL-therm  ----> 29.5 C
+INFO: 02/25/2021 05:54:18 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 05:54:18 PM thermal-fan-est  ----> 32.75 C
+DEBUG: 02/25/2021 05:54:18 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 05:54:18 PM Shuting down the TCL A/C on pin number 7
+DEBUG: 02/25/2021 05:54:18 PM Turning off TCL A/C for 0 minutes
+Traceback (most recent call last):
+  File "./ac_controller.py", line 53, in main
+    ac.turnOff(offTime)
+  File "/home/kasun/test/gpio/devices/device.py", line 29, in turnOff
+    GPIO.output(self.pin, GPIO.LOW)
+  File "/usr/lib/python3/dist-packages/Jetson/GPIO/gpio.py", line 435, in output
+    _output_one(ch_info.gpio, value)
+  File "/usr/lib/python3/dist-packages/Jetson/GPIO/gpio.py", line 175, in _output_one
+    with open(_SYSFS_ROOT + "/gpio%s" % gpio + "/value", 'w') as value_file:
+FileNotFoundError: [Errno 2] No such file or directory: '/sys/class/gpio/gpio216/value'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "./ac_controller.py", line 62, in <module>
+    main(sys.argv[1:])
+  File "./ac_controller.py", line 57, in main
+    ac.shutdown()
+  File "/home/kasun/test/gpio/devices/device.py", line 44, in shutdown
+    self.turnOff()
+  File "/home/kasun/test/gpio/devices/device.py", line 29, in turnOff
+    GPIO.output(self.pin, GPIO.LOW)
+  File "/usr/lib/python3/dist-packages/Jetson/GPIO/gpio.py", line 435, in output
+    _output_one(ch_info.gpio, value)
+  File "/usr/lib/python3/dist-packages/Jetson/GPIO/gpio.py", line 175, in _output_one
+    with open(_SYSFS_ROOT + "/gpio%s" % gpio + "/value", 'w') as value_file:
+FileNotFoundError: [Errno 2] No such file or directory: '/sys/class/gpio/gpio216/value'
+INFO: 02/25/2021 06:06:04 PM Starting A/C controller in PID 8296
+INFO: 02/25/2021 06:06:04 PM AO-therm  ----> 46.5 C
+INFO: 02/25/2021 06:06:04 PM CPU-therm  ----> 38.5 C
+INFO: 02/25/2021 06:06:04 PM GPU-therm  ----> 36.5 C
+INFO: 02/25/2021 06:06:04 PM PLL-therm  ----> 34.5 C
+INFO: 02/25/2021 06:06:04 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 06:06:04 PM thermal-fan-est  ----> 37.0 C
+DEBUG: 02/25/2021 06:06:04 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 06:08:04 PM AO-therm  ----> 45.0 C
+INFO: 02/25/2021 06:08:04 PM CPU-therm  ----> 37.5 C
+INFO: 02/25/2021 06:08:04 PM GPU-therm  ----> 36.0 C
+INFO: 02/25/2021 06:08:04 PM PLL-therm  ----> 33.0 C
+INFO: 02/25/2021 06:08:04 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 06:08:04 PM thermal-fan-est  ----> 36.5 C
+DEBUG: 02/25/2021 06:08:04 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 06:10:04 PM AO-therm  ----> 44.5 C
+INFO: 02/25/2021 06:10:04 PM CPU-therm  ----> 36.5 C
+INFO: 02/25/2021 06:10:04 PM GPU-therm  ----> 36.0 C
+INFO: 02/25/2021 06:10:04 PM PLL-therm  ----> 32.0 C
+INFO: 02/25/2021 06:10:04 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 06:10:04 PM thermal-fan-est  ----> 36.25 C
+DEBUG: 02/25/2021 06:10:04 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 06:12:04 PM AO-therm  ----> 44.0 C
+INFO: 02/25/2021 06:12:04 PM CPU-therm  ----> 36.0 C
+INFO: 02/25/2021 06:12:04 PM GPU-therm  ----> 35.5 C
+INFO: 02/25/2021 06:12:04 PM PLL-therm  ----> 31.5 C
+INFO: 02/25/2021 06:12:04 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 06:12:04 PM thermal-fan-est  ----> 35.75 C
+DEBUG: 02/25/2021 06:12:04 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 06:14:04 PM AO-therm  ----> 43.5 C
+INFO: 02/25/2021 06:14:04 PM CPU-therm  ----> 36.0 C
+INFO: 02/25/2021 06:14:04 PM GPU-therm  ----> 35.5 C
+INFO: 02/25/2021 06:14:04 PM PLL-therm  ----> 31.5 C
+INFO: 02/25/2021 06:14:04 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 06:14:04 PM thermal-fan-est  ----> 35.75 C
+DEBUG: 02/25/2021 06:14:04 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 06:16:05 PM AO-therm  ----> 43.5 C
+INFO: 02/25/2021 06:16:05 PM CPU-therm  ----> 35.5 C
+INFO: 02/25/2021 06:16:05 PM GPU-therm  ----> 35.0 C
+INFO: 02/25/2021 06:16:05 PM PLL-therm  ----> 31.0 C
+INFO: 02/25/2021 06:16:05 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 06:16:05 PM thermal-fan-est  ----> 35.25 C
+DEBUG: 02/25/2021 06:16:05 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 06:18:05 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 06:18:05 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 06:18:05 PM GPU-therm  ----> 34.5 C
+INFO: 02/25/2021 06:18:05 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 06:18:05 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 06:18:05 PM thermal-fan-est  ----> 35.25 C
+DEBUG: 02/25/2021 06:18:05 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 06:20:05 PM AO-therm  ----> 43.5 C
+INFO: 02/25/2021 06:20:05 PM CPU-therm  ----> 35.5 C
+INFO: 02/25/2021 06:20:05 PM GPU-therm  ----> 35.5 C
+INFO: 02/25/2021 06:20:05 PM PLL-therm  ----> 31.5 C
+INFO: 02/25/2021 06:20:05 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 06:20:05 PM thermal-fan-est  ----> 35.0 C
+DEBUG: 02/25/2021 06:20:05 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 06:22:05 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 06:22:05 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 06:22:05 PM GPU-therm  ----> 35.0 C
+INFO: 02/25/2021 06:22:05 PM PLL-therm  ----> 31.0 C
+INFO: 02/25/2021 06:22:05 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 06:22:05 PM thermal-fan-est  ----> 34.75 C
+DEBUG: 02/25/2021 06:22:05 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 06:24:05 PM AO-therm  ----> 43.5 C
+INFO: 02/25/2021 06:24:05 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 06:24:05 PM GPU-therm  ----> 34.5 C
+INFO: 02/25/2021 06:24:05 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 06:24:05 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 06:24:05 PM thermal-fan-est  ----> 34.75 C
+DEBUG: 02/25/2021 06:24:05 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 06:26:05 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 06:26:05 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 06:26:05 PM GPU-therm  ----> 34.5 C
+INFO: 02/25/2021 06:26:05 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 06:26:05 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 06:26:05 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 06:26:05 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 06:28:05 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 06:28:05 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 06:28:05 PM GPU-therm  ----> 34.5 C
+INFO: 02/25/2021 06:28:05 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 06:28:05 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 06:28:05 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 06:28:05 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 06:30:05 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 06:30:05 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 06:30:05 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 06:30:05 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 06:30:05 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 06:30:05 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 06:30:05 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 06:32:05 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 06:32:05 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 06:32:05 PM GPU-therm  ----> 34.5 C
+INFO: 02/25/2021 06:32:05 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 06:32:05 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 06:32:05 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 06:32:05 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 06:34:05 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 06:34:05 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 06:34:05 PM GPU-therm  ----> 34.5 C
+INFO: 02/25/2021 06:34:05 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 06:34:05 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 06:34:05 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 06:34:05 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 06:36:06 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 06:36:06 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 06:36:06 PM GPU-therm  ----> 34.5 C
+INFO: 02/25/2021 06:36:06 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 06:36:06 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 06:36:06 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 06:36:06 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 06:38:06 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 06:38:06 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 06:38:06 PM GPU-therm  ----> 34.5 C
+INFO: 02/25/2021 06:38:06 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 06:38:06 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 06:38:06 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 06:38:06 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 06:40:06 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 06:40:06 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 06:40:06 PM GPU-therm  ----> 34.5 C
+INFO: 02/25/2021 06:40:06 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 06:40:06 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 06:40:06 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 06:40:06 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 06:42:06 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 06:42:06 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 06:42:06 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 06:42:06 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 06:42:06 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 06:42:06 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 06:42:06 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 06:44:06 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 06:44:06 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 06:44:06 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 06:44:06 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 06:44:06 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 06:44:06 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 06:44:06 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 06:46:06 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 06:46:06 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 06:46:06 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 06:46:06 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 06:46:06 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 06:46:06 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 06:46:06 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 06:48:06 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 06:48:06 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 06:48:06 PM GPU-therm  ----> 34.5 C
+INFO: 02/25/2021 06:48:06 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 06:48:06 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 06:48:06 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 06:48:06 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 06:50:06 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 06:50:06 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 06:50:06 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 06:50:06 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 06:50:06 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 06:50:06 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 06:50:06 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 06:52:06 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 06:52:06 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 06:52:06 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 06:52:06 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 06:52:06 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 06:52:06 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 06:52:06 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 06:54:06 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 06:54:06 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 06:54:06 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 06:54:06 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 06:54:06 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 06:54:06 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 06:54:06 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 06:56:06 PM AO-therm  ----> 41.5 C
+INFO: 02/25/2021 06:56:06 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 06:56:06 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 06:56:06 PM PLL-therm  ----> 29.5 C
+INFO: 02/25/2021 06:56:06 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 06:56:06 PM thermal-fan-est  ----> 33.75 C
+DEBUG: 02/25/2021 06:56:06 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 06:58:06 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 06:58:06 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 06:58:06 PM GPU-therm  ----> 33.0 C
+INFO: 02/25/2021 06:58:06 PM PLL-therm  ----> 29.0 C
+INFO: 02/25/2021 06:58:06 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 06:58:06 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 06:58:06 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:00:07 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 07:00:07 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 07:00:07 PM GPU-therm  ----> 33.5 C
+INFO: 02/25/2021 07:00:07 PM PLL-therm  ----> 29.5 C
+INFO: 02/25/2021 07:00:07 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:00:07 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 07:00:07 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:02:07 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 07:02:07 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 07:02:07 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 07:02:07 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 07:02:07 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:02:07 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 07:02:07 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:04:07 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 07:04:07 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 07:04:07 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 07:04:07 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 07:04:07 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:04:07 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 07:04:07 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:06:07 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 07:06:07 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 07:06:07 PM GPU-therm  ----> 34.5 C
+INFO: 02/25/2021 07:06:07 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 07:06:07 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:06:07 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 07:06:07 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:08:07 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 07:08:07 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 07:08:07 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 07:08:07 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 07:08:07 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:08:07 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 07:08:07 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:10:07 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 07:10:07 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 07:10:07 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 07:10:07 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 07:10:07 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:10:07 PM thermal-fan-est  ----> 34.75 C
+DEBUG: 02/25/2021 07:10:07 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:12:07 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 07:12:07 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 07:12:07 PM GPU-therm  ----> 34.5 C
+INFO: 02/25/2021 07:12:07 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 07:12:07 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:12:07 PM thermal-fan-est  ----> 34.75 C
+DEBUG: 02/25/2021 07:12:07 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:14:07 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 07:14:07 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 07:14:07 PM GPU-therm  ----> 34.5 C
+INFO: 02/25/2021 07:14:07 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 07:14:07 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:14:07 PM thermal-fan-est  ----> 34.75 C
+DEBUG: 02/25/2021 07:14:07 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:16:07 PM AO-therm  ----> 43.5 C
+INFO: 02/25/2021 07:16:07 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 07:16:07 PM GPU-therm  ----> 34.5 C
+INFO: 02/25/2021 07:16:07 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 07:16:07 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:16:07 PM thermal-fan-est  ----> 35.0 C
+DEBUG: 02/25/2021 07:16:07 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:18:07 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 07:18:07 PM CPU-therm  ----> 35.5 C
+INFO: 02/25/2021 07:18:07 PM GPU-therm  ----> 34.5 C
+INFO: 02/25/2021 07:18:07 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 07:18:07 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:18:07 PM thermal-fan-est  ----> 34.75 C
+DEBUG: 02/25/2021 07:18:07 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:20:07 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 07:20:07 PM CPU-therm  ----> 35.5 C
+INFO: 02/25/2021 07:20:07 PM GPU-therm  ----> 35.0 C
+INFO: 02/25/2021 07:20:07 PM PLL-therm  ----> 31.0 C
+INFO: 02/25/2021 07:20:07 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:20:07 PM thermal-fan-est  ----> 35.25 C
+DEBUG: 02/25/2021 07:20:07 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:22:07 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 07:22:07 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 07:22:07 PM GPU-therm  ----> 34.5 C
+INFO: 02/25/2021 07:22:07 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 07:22:07 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:22:07 PM thermal-fan-est  ----> 34.75 C
+DEBUG: 02/25/2021 07:22:07 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:24:08 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 07:24:08 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 07:24:08 PM GPU-therm  ----> 34.5 C
+INFO: 02/25/2021 07:24:08 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 07:24:08 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:24:08 PM thermal-fan-est  ----> 35.0 C
+DEBUG: 02/25/2021 07:24:08 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:26:08 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 07:26:08 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 07:26:08 PM GPU-therm  ----> 34.5 C
+INFO: 02/25/2021 07:26:08 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 07:26:08 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:26:08 PM thermal-fan-est  ----> 34.75 C
+DEBUG: 02/25/2021 07:26:08 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:28:08 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 07:28:08 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 07:28:08 PM GPU-therm  ----> 34.5 C
+INFO: 02/25/2021 07:28:08 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 07:28:08 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:28:08 PM thermal-fan-est  ----> 34.75 C
+DEBUG: 02/25/2021 07:28:08 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:30:08 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 07:30:08 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 07:30:08 PM GPU-therm  ----> 34.5 C
+INFO: 02/25/2021 07:30:08 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 07:30:08 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:30:08 PM thermal-fan-est  ----> 35.0 C
+DEBUG: 02/25/2021 07:30:08 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:32:08 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 07:32:08 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 07:32:08 PM GPU-therm  ----> 34.5 C
+INFO: 02/25/2021 07:32:08 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 07:32:08 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:32:08 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 07:32:08 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:34:08 PM AO-therm  ----> 43.0 C
+INFO: 02/25/2021 07:34:08 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 07:34:08 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 07:34:08 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 07:34:08 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:34:08 PM thermal-fan-est  ----> 34.75 C
+DEBUG: 02/25/2021 07:34:08 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:36:08 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 07:36:08 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 07:36:08 PM GPU-therm  ----> 34.5 C
+INFO: 02/25/2021 07:36:08 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 07:36:08 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:36:08 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 07:36:08 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:38:08 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 07:38:08 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 07:38:08 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 07:38:08 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 07:38:08 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:38:08 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 07:38:08 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:40:08 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 07:40:08 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 07:40:08 PM GPU-therm  ----> 34.5 C
+INFO: 02/25/2021 07:40:08 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 07:40:08 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:40:08 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 07:40:08 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:42:08 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 07:42:08 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 07:42:08 PM GPU-therm  ----> 34.5 C
+INFO: 02/25/2021 07:42:08 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 07:42:08 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:42:08 PM thermal-fan-est  ----> 34.75 C
+DEBUG: 02/25/2021 07:42:08 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:44:08 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 07:44:08 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 07:44:08 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 07:44:08 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 07:44:08 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:44:08 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 07:44:08 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:46:09 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 07:46:09 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 07:46:09 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 07:46:09 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 07:46:09 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:46:09 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 07:46:09 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:48:09 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 07:48:09 PM CPU-therm  ----> 35.0 C
+INFO: 02/25/2021 07:48:09 PM GPU-therm  ----> 35.0 C
+INFO: 02/25/2021 07:48:09 PM PLL-therm  ----> 31.0 C
+INFO: 02/25/2021 07:48:09 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:48:09 PM thermal-fan-est  ----> 34.75 C
+DEBUG: 02/25/2021 07:48:09 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:50:09 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 07:50:09 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 07:50:09 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 07:50:09 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 07:50:09 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:50:09 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 07:50:09 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:52:09 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 07:52:09 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 07:52:09 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 07:52:09 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 07:52:09 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:52:09 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 07:52:09 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:54:09 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 07:54:09 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 07:54:09 PM GPU-therm  ----> 34.5 C
+INFO: 02/25/2021 07:54:09 PM PLL-therm  ----> 30.5 C
+INFO: 02/25/2021 07:54:09 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:54:09 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 07:54:09 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:56:09 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 07:56:09 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 07:56:09 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 07:56:09 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 07:56:09 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:56:09 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 07:56:09 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 07:58:09 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 07:58:09 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 07:58:09 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 07:58:09 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 07:58:09 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 07:58:09 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 07:58:09 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 08:00:09 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 08:00:09 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 08:00:09 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 08:00:09 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 08:00:09 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 08:00:09 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 08:00:09 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 08:02:09 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 08:02:09 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 08:02:09 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 08:02:09 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 08:02:09 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 08:02:09 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 08:02:09 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 08:04:09 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 08:04:09 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 08:04:09 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 08:04:09 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 08:04:09 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 08:04:09 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 08:04:09 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 08:06:10 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 08:06:10 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 08:06:10 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 08:06:10 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 08:06:10 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 08:06:10 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 08:06:10 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 08:08:10 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 08:08:10 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 08:08:10 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 08:08:10 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 08:08:10 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 08:08:10 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 08:08:10 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 08:10:10 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 08:10:10 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 08:10:10 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 08:10:10 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 08:10:10 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 08:10:10 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 08:10:10 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 08:12:10 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 08:12:10 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 08:12:10 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 08:12:10 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 08:12:10 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 08:12:10 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 08:12:10 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 08:14:10 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 08:14:10 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 08:14:10 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 08:14:10 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 08:14:10 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 08:14:10 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 08:14:10 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 08:16:10 PM AO-therm  ----> 42.5 C
+INFO: 02/25/2021 08:16:10 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 08:16:10 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 08:16:10 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 08:16:10 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 08:16:10 PM thermal-fan-est  ----> 34.5 C
+DEBUG: 02/25/2021 08:16:10 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 08:18:10 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 08:18:10 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 08:18:10 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 08:18:10 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 08:18:10 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 08:18:10 PM thermal-fan-est  ----> 34.0 C
+DEBUG: 02/25/2021 08:18:10 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 08:20:10 PM AO-therm  ----> 42.0 C
+INFO: 02/25/2021 08:20:10 PM CPU-therm  ----> 34.5 C
+INFO: 02/25/2021 08:20:10 PM GPU-therm  ----> 34.0 C
+INFO: 02/25/2021 08:20:10 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 08:20:10 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 08:20:10 PM thermal-fan-est  ----> 34.25 C
+DEBUG: 02/25/2021 08:20:10 PM Turning off TCL A/C for 2.0 minutes
+INFO: 02/25/2021 08:22:10 PM AO-therm  ----> 41.5 C
+INFO: 02/25/2021 08:22:10 PM CPU-therm  ----> 34.0 C
+INFO: 02/25/2021 08:22:10 PM GPU-therm  ----> 32.0 C
+INFO: 02/25/2021 08:22:10 PM PLL-therm  ----> 30.0 C
+INFO: 02/25/2021 08:22:10 PM PMIC-Die (Not real)  ----> 100.0 C
+INFO: 02/25/2021 08:22:10 PM thermal-fan-est  ----> 33.0 C
+DEBUG: 02/25/2021 08:22:10 PM Turning on TCL A/C for 2.0 minutes
+INFO: 02/25/2021 08:22:10 PM Shuting down the TCL A/C on pin number 7
+DEBUG: 02/25/2021 08:22:10 PM Turning off TCL A/C for 0 minutes
+Traceback (most recent call last):
+  File "./ac_controller.py", line 51, in main
+    ac.turnOn(onTime)
+  File "/home/kasun/test/gpio/devices/device.py", line 23, in turnOn
+    GPIO.output(self.pin, GPIO.HIGH)
+  File "/usr/lib/python3/dist-packages/Jetson/GPIO/gpio.py", line 435, in output
+    _output_one(ch_info.gpio, value)
+  File "/usr/lib/python3/dist-packages/Jetson/GPIO/gpio.py", line 175, in _output_one
+    with open(_SYSFS_ROOT + "/gpio%s" % gpio + "/value", 'w') as value_file:
+FileNotFoundError: [Errno 2] No such file or directory: '/sys/class/gpio/gpio216/value'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "./ac_controller.py", line 62, in <module>
+    main(sys.argv[1:])
+  File "./ac_controller.py", line 57, in main
+    ac.shutdown()
+  File "/home/kasun/test/gpio/devices/device.py", line 44, in shutdown
+    self.turnOff()
+  File "/home/kasun/test/gpio/devices/device.py", line 29, in turnOff
+    GPIO.output(self.pin, GPIO.LOW)
+  File "/usr/lib/python3/dist-packages/Jetson/GPIO/gpio.py", line 435, in output
+    _output_one(ch_info.gpio, value)
+  File "/usr/lib/python3/dist-packages/Jetson/GPIO/gpio.py", line 175, in _output_one
+    with open(_SYSFS_ROOT + "/gpio%s" % gpio + "/value", 'w') as value_file:
+FileNotFoundError: [Errno 2] No such file or directory: '/sys/class/gpio/gpio216/value'
